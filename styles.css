@@ -1,0 +1,39 @@
+body {
+    background-color: #393E46;
+}
+
+h1 {
+    margin: 28px;
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    color: #4ECCA3;
+    text-shadow: 5px 0 #232931;
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: #4ECCA3;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    /* inline-block because we wanna mention the p inside div */
+    display: inline-block;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+    margin: 5%;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: #ffff;
+}
